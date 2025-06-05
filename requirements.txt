@@ -1,0 +1,8 @@
+pika
+pytorch
+uvicorn
+fastapi
+pydantic
+numpy
+joblib
+pandas
